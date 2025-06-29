@@ -7,9 +7,8 @@
 
 Follow the given instructions
 
-1. Clone the repository: git clone [https://github.com/Anmol779/five_in_a_row.git](https://github.com/Anmol779/five_in_a_row.git)
-2. Install required dependencies given in requirement.txt
-3. Run command "python run.py" to start the game
+1. Install required dependencies given in requirement.txt
+2. Run command "python run.py" to start the game
 
 ## Usage
 
@@ -31,10 +30,7 @@ Numpy
 
 ## Contributers
 
-Adarsh Gupta  
-Aman Pushkar  
+Happy 
 Anmol Sharma  
-Kaushilya  
-Parikshit Gehlaut  
-Sagar Verma  
-Vivek Kumar
+Aman Pushkar  
+
