@@ -153,6 +153,8 @@ def run_game(board_size, depth):
                     game_instance.turn = game_instance.turn % 2
 
         # Display scores after each round
+        pygame.display.update()            # make sure last move is visible
+        pygame.time.wait(1500)     
         screen.fill(BLACK)  # Clear the screen
         font = pygame.font.SysFont(None, 25)
         player_score_text = font.render(f'Player1 Score: {player_score}', True, WHITE)
